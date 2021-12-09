@@ -91,5 +91,5 @@ module.exports = {
     // 'gatsby-plugin-offline',
   ],
   /// this must match the path your webpage is displayed from (the second part of the ternary will be the path prefix for production)
-  pathPrefix: process.env.NODE_ENV === 'development' ? '' : '',
+  pathPrefix: '/c3po',
 }
